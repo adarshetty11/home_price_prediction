@@ -1,0 +1,4 @@
+pickleshare==0.7.5
+Pillow==7.1.2
+sklearn==0.0
+streamlit==0.61.0
