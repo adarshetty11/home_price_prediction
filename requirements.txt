@@ -1,6 +1,6 @@
 json5==0.9.3
 jsonschema==3.2.0
-numpy==1.18.2
+numpy==1.22.0
 pickleshare==0.7.5
 pydeck==0.4.0b2
 sklearn==0.0
